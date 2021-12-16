@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1042282337662",
+    "project_id": "flutter-fh-notifications",
+    "storage_bucket": "flutter-fh-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042282337662:android:46f25a213b77917ba38f2f",
+        "android_client_info": {
+          "package_name": "com.mappedev.notificationsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042282337662-98ihfad8j4l7gcll6171qei0amj77jup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mappedev.notificationsapp",
+            "certificate_hash": "44d8435af3e2a11f6184c8945330d88a0c24344f"
+          }
+        },
+        {
+          "client_id": "1042282337662-4nqri12parhml8f1k1ukvdqcpdbddvo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5wLK46bxmKm_p5lQR-prFvc8bJG7Sa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042282337662-4nqri12parhml8f1k1ukvdqcpdbddvo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
